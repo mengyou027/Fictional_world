@@ -11,7 +11,7 @@ ehthumbs.db
 *.swn
 *.bak
 *.tmp
-*.odsidian
+.odsidian
 
 # 写作软件缓存（如有）
 *.scrivx.backup
