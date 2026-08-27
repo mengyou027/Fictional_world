@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7e75505b24a6e045",
+        "id": "ab0a3f4aad0f184e",
         "type": "tabs",
         "children": [
           {
-            "id": "2338e6345e150267",
+            "id": "51c92aa81ba17534",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "萌友的虚构史/旧新花_Old, new, and mixed./企划/小纲.md",
+                "file": "写作规范/人物档案格式_0.0.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "小纲"
+              "title": "人物档案格式_0.0.0"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "写作规范/人物档案格式_0.0.0.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -168,15 +168,29 @@
       "bases:新建数据库": false
     }
   },
-  "active": "2338e6345e150267",
+  "active": "51c92aa81ba17534",
   "lastOpenFiles": [
     "萌友的虚构史/旧新花_Old, new, and mixed./叙事/千花万藏_0.0.0.md",
+    "萌友的虚构史/旧新花_Old, new, and mixed./档案/人物/千花万藏_0.0.1.md",
+    "写作规范/人物档案格式_0.0.0.md",
+    "萌友的虚构史/大秦世界_The Great Qin World./档案/地标/天空歌剧院「地平线」.md",
+    "萌友的虚构史/旧新花_Old, new, and mixed./档案/人物/藤原樱_0.0.1.md",
+    "虚构考古学家白皮书_0.0.0.md",
+    "萌友的虚构史/大秦世界_The Great Qin World./档案/人物/赢百川_0.0.0.md",
+    "写作规范",
+    "萌友的虚构史/大秦世界_The Great Qin World./档案/势力/超自然灾害控制管理局_0.0.0.md",
+    "萌友的虚构史/沙盘_Sand table./企划/总纲.md",
     "萌友的虚构史/旧新花_Old, new, and mixed./企划/小纲.md",
+    "萌友的虚构史/旧新花_Old, new, and mixed./企划/总纲.md",
+    "萌友的虚构史/沙盘_Sand table./档案/人物/千花万藏_0.0.0.md",
+    "萌友的虚构史/白垩_Chalk./档案/人种/神人_0.1.0.md",
+    "萌友的虚构史/白垩_Chalk./档案/人种/伤人_0.0.0.md",
+    "萌友的虚构史/白垩_Chalk./档案/人种/棱人_0.0.0.md",
+    "萌友的虚构史/白垩_Chalk./档案/人种/嵴人_0.0.0.md",
+    "萌友的虚构史/白垩_Chalk./档案/人种/斑人_0.0.0.md",
     "萌友的虚构史/旧新花_Old, new, and mixed./档案/人物/八重樫神奈_0.0.0.md",
     "萌友的虚构史/旧新花_Old, new, and mixed./档案/人物/天使萌_0.0.0.md",
     "萌友的虚构史/旧新花_Old, new, and mixed./企划/大纲.md",
-    "萌友的虚构史/旧新花_Old, new, and mixed./企划/总纲.md",
-    "萌友的虚构史/旧新花_Old, new, and mixed./档案/人物/千花万藏_0.0.0.md",
     "萌友的虚构史/沙盘_Sand table./档案/人物/路西法·希特勒_0.0.0.md",
     "README.md",
     "留言/虚构史学家们的留言/空.md"
