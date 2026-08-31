@@ -13,9 +13,3 @@ If you decide to become a fictional historian, please read the Fictional Histori
 If you excel at reviewing, socializing, discovering, and collecting, you might become a fictional archaeologist. Then please read the Fictional Archaeologist's White Book.
 
 If you wish to translate or adapt fictional history or legacy, you may voluntarily join the Fictional Translation Group. Your identity can be a fictional historian, but I recommend being a fictional archaeologist.
-
-# Portals
-
-Fictional Historian's Black Book: No translation available yet.
-
-Fictional Archaeologist's White Book: No translation available yet.
