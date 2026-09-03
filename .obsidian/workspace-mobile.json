@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51c92aa81ba17534",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
             "id": "24e59166eff603c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "虚构史学家黑皮书.md",
+                "file": "萌友的虚构史/旧新花_Old, new, and mixed/叙事/千花万藏_0.0.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "虚构史学家黑皮书"
+              "title": "千花万藏_0.0.0"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "虚构史学家黑皮书.md",
+            "file": "萌友的虚构史/旧新花_Old, new, and mixed/叙事/千花万藏_0.0.0.md",
             "followCursor": false,
             "showSearch": true,
             "searchQuery": ""
@@ -185,6 +170,15 @@
   },
   "active": "24e59166eff603c1",
   "lastOpenFiles": [
+    "萌友的虚构史/旧新花_Old, new, and mixed/档案/人物/胡桃_0.0.0.md",
+    "萌友的虚构史/旧新花_Old, new, and mixed/档案/人物/铃木绘星_0.0.0.md",
+    "萌友的虚构史/旧新花_Old, new, and mixed/档案/人物/八重樫神奈_0.0.0.md",
+    "萌友的虚构史/旧新花_Old, new, and mixed/档案/人物/藤原樱_0.0.1.md",
+    "萌友的虚构史/旧新花_Old, new, and mixed/档案/人物/庄吾_0.0.0.md",
+    "萌友的虚构史/旧新花_Old, new, and mixed/档案/人物/源咲_0.0.0.md",
+    "萌友的虚构史/旧新花_Old, new, and mixed/档案/人物/天使萌_0.0.0.md",
+    "萌友的虚构史/旧新花_Old, new, and mixed/档案/人物/藤原飒_0.0.0.md",
+    "萌友的虚构史/旧新花_Old, new, and mixed/档案/人物/千花万藏_0.0.1.md",
     "萌友的虚构史/旧新花_Old, new, and mixed/叙事/千花万藏_0.0.0.md",
     "虚构史学家黑皮书.md",
     "萌友的虚构史/大秦世界_The Great Qin World/编年史_0.0.0.md",
@@ -194,10 +188,7 @@
     "萌友的虚构史/大秦世界_The Great Qin World/叙事/外篇/空.md",
     "虚构考古学家白皮书.md",
     "字林.md",
-    "萌友的虚构史/旧新花_Old, new, and mixed/档案/人物/天使萌_0.0.0.md",
-    "萌友的虚构史/旧新花_Old, new, and mixed/档案/人物/千花万藏_0.0.1.md",
     "萌友的虚构史/旧新花_Old, new, and mixed/企划/小纲.md",
-    "萌友的虚构史/旧新花_Old, new, and mixed/档案/人物/庄吾_0.0.0.md",
     "萌友的虚构史/沙盘_Sand table/档案/人物/千花万藏_0.0.0.md",
     "萌友的虚构史/沙盘_Sand table/档案/人物/春奴·凯撒_0.0.0.md",
     "萌友的虚构史/沙盘_Sand table/档案/人物/阿米娅·希特勒_0.0.0.md",
@@ -205,12 +196,6 @@
     "萌友的虚构史/旧新花_Old, new, and mixed/档案/武器/枪械/M2035-玛德松纳_0.0.0.md",
     "萌友的虚构史/旧新花_Old, new, and mixed/档案/武器/冷兵器/妖刀·曼陀罗_0.0.0.md",
     "萌友的虚构史/旧新花_Old, new, and mixed/档案/武器/冷兵器/名刀·伊甸之星_0.0.0.md",
-    "萌友的虚构史/沙盘_Sand table/档案/人物/路西法·希特勒_0.0.0.md",
-    "萌友的虚构史/沙盘_Sand table/档案/人物/薇尔希·冯·普鲁士_0.0.0.md",
-    "萌友的虚构史/沙盘_Sand table/企划/总纲.md",
-    "萌友的虚构史/旧新花_Old, new, and mixed/企划/大纲.md",
-    "萌友的虚构史/旧新花_Old, new, and mixed/企划/总纲.md",
-    "README.zh-CN.md",
     "未命名",
     "笺注",
     "写作规范"
