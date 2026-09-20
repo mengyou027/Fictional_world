@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "19b9896d6d511405",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab0a3f4aad0f184e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24e59166eff603c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "萌友的虚构史/风云史/档案/生物/浮木菌.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "浮木菌"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d8e98d98ec9ab22",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "60edda44006a0497",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "d24e077b639a9368",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "25c8a1fe6c021f36",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "b451afc3718b1465",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "添加笔记属性"
+        }
+      },
+      {
+        "id": "03f83a3ebdf69821",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c82a1f17af0b3dc0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0da7f5ccffe05f2e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "字林_0.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "acb80454d7c4c063",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "字林_0.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "5150646d775db746",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "萌友的虚构史/风云史/档案/生物/绒羊.md",
+            "followCursor": false,
+            "showSearch": true,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "24e59166eff603c1",
+  "lastOpenFiles": [
+    "萌友的虚构史/风云史/档案/生物/螺旋杆菌.md",
+    "萌友的虚构史/风云史/档案/生物/浮木菌.md",
+    "萌友的虚构史/风云史/档案/生物/厘鸟.md",
+    "萌友的虚构史/风云史/档案/生物/飞龙.md",
+    "萌友的虚构史/风云史/档案/生物/雷龙.md",
+    "萌友的虚构史/风云史/档案/生物/气礁螅.md",
+    "萌友的虚构史/风云史/档案/生物/绒羊.md",
+    "萌友的虚构史/风云史/档案/生物/祖龙.md",
+    "萌友的虚构史/风云史/档案/生物/妮娜人类.md",
+    "萌友的虚构史/风云史/企划/总纲.md",
+    "萌友的虚构史/风云史/档案/人物/萌祝郡_0.0.0.md",
+    "萌友的虚构史/大秦世界_The Great Qin World/档案/载具/飞行器/白帝_0.0.0.md",
+    "萌友的虚构史/大秦世界_The Great Qin World/档案/国家/英格兰日不落联邦_0.0.0.md",
+    "萌友的虚构史/大秦世界_The Great Qin World/档案/地标/天空歌剧院「地平线」.md",
+    "萌友的虚构史/进行方舟/档案/凯尔希·蒙哥马利.md",
+    "萌友的虚构史/风云史/档案/未命名.md",
+    "萌友的虚构史/风云史/档案/生物",
+    "萌友的虚构史/风云史/档案/人物",
+    "萌友的虚构史/风云史/档案",
+    "萌友的虚构史/风云史/未命名.md",
+    "萌友的虚构史/旧新花_Old, new, and mixed/企划/大纲.md",
+    "萌友的虚构史/旧新花_Old, new, and mixed/企划/总纲.md",
+    "萌友的虚构史/旧新花_Old, new, and mixed/叙事/千花万藏_0.0.0.md",
+    "萌友的虚构史/沙盘_Sand table/企划/总纲.md",
+    "萌友的虚构史/旧新花_Old, new, and mixed/企划/小纲.md",
+    "萌友的虚构史/风云史/企划",
+    "萌友的虚构史/风云史",
+    "萌友的虚构史/旧新花_Old, new, and mixed/档案/人物/源咲_0.0.0.md",
+    "萌友的虚构史/旧新花_Old, new, and mixed/档案/人物/天使萌_0.0.0.md",
+    "萌友的虚构史/旧新花_Old, new, and mixed/档案/人物/真颜_0.0.0.md",
+    "萌友的虚构史/旧新花_Old, new, and mixed/档案/人物/庄吾_0.0.0.md",
+    "萌友的虚构史/进行方舟/档案",
+    "萌友的虚构史/进行方舟",
+    "萌友的虚构史/无限列车/档案",
+    "萌友的虚构史/无限列车",
+    "未命名"
+  ]
+}
